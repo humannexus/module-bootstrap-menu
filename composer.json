@@ -1,12 +1,12 @@
 {
-    "name": "webgriffe/module-bootstrap-menu",
+    "name": "humannexus/module-bootstrap-menu",
     "description": "Magento 2 module which turns top menu compatible with Bootstrap.",
     "require": {
         "php": "^5.6|^7.0",
         "magento/module-theme": "100.2.0"
     },
     "suggest": {
-        "webgriffe/theme-frontend-bootstrap": "^1.0"
+        "humannexus/theme-frontend-bootstrap": "^1.0"
     },
     "type": "magento2-module",
     "version": "1.0.2",
